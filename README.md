@@ -18,6 +18,7 @@ The following tools were used
 * React
 * NPM
 * Git
+* Giphy API
 
 ## Working Page
 https://tomaszolejniczak.github.io/GifSearchEngine/
